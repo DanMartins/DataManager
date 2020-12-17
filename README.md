@@ -1,6 +1,8 @@
 # DataManager
 Tools for data handling and management.
 
+[![DOI](https://zenodo.org/badge/322324951.svg)](https://zenodo.org/badge/latestdoi/322324951)
+
 The SQL2Mongo script was written in Python to help with data migration from SQL to MongoDB.
 The use case is show in the figure below:
 
